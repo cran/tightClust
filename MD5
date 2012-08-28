@@ -1,0 +1,11 @@
+209c7a24ae753d222da528ff30b2ddc5 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+bcf9da7d6e9ff63c89e8200190dba1fe *R/plot.tight.clust.R
+771ecd61a02a27965c9565e2a6199988 *R/tight.clust.R
+adfc09379a8001e0e3cae630c2c37974 *R/write.tight.clust.R
+89c52d60f8086a1bc1f750b55a4956fd *data/tclust.test.data.rda
+95682c0b55a66ce1a30d9fbe8c968a8d *man/plot.tight.clust.Rd
+60b1e9ba09785cc8c7f52b00256da86f *man/tclust.test.data.Rd
+3216b48a3a82a49a6dc3c350e61a4ad4 *man/tight.clust.Rd
+cf2d6405ceee39c67bd32e49f3e4eed6 *man/tightClust-package.Rd
+4a2787ef36ef8d186c508256572f497b *man/write.tight.clust.Rd
