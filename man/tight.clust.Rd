@@ -6,7 +6,10 @@
   This function could perform the tight clustering algorithm.
 }
 \usage{
-tight.clust(x, target, k.min, alpha = 0.1, beta = 0.6, top.can = 7, seq.num = 2, resamp.num = 10, samp.p = 0.7, nstart = 1, remain.p = 0.1, k.stop = 5, standardize.gene=TRUE, random.seed=NULL)
+tight.clust(x, target, k.min, alpha = 0.1, beta = 0.6,
+top.can = 7, seq.num = 2, resamp.num = 10,
+samp.p = 0.7, nstart = 1, remain.p = 0.1,
+k.stop = 5, standardize.gene=TRUE, random.seed=NULL)
 }
 
 \arguments{
